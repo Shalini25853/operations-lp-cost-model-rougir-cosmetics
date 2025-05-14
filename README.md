@@ -1,12 +1,12 @@
 # operations-lp-cost-model-rougir-cosmetics
 Linear programming model to optimize production and outsourcing costs for Rougir Cosmetics, focusing on capacity constraints, labor allocation, and material usage.
-# 💄 Rougir Cosmetics – LP Cost Optimization Model
+#  Rougir Cosmetics – LP Cost Optimization Model
 
 This project applies **linear programming** to minimize production and outsourcing costs for **Rougir Cosmetics**, a global skincare brand. The model considers multiple constraints such as labor availability, material limits, and production demand to recommend the most cost-effective manufacturing strategy.
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Rougir Cosmetics needed to optimize its in-house vs outsourced production strategy for three product lines:
 - Face Cream
@@ -17,7 +17,7 @@ The challenge was to minimize total cost while ensuring all customer demand is m
 
 ---
 
-## ⚙️ Tools & Techniques
+##  Tools & Techniques
 
 - **Excel Solver** – Optimization modeling
 - **Linear Programming** – Minimize cost under constraints
@@ -30,7 +30,7 @@ The challenge was to minimize total cost while ensuring all customer demand is m
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 - **Minimum Total Cost**: $1,368,100  
 - 100% of Face Cream and 87.5% of Body Cream were outsourced in base model  
@@ -39,7 +39,7 @@ The challenge was to minimize total cost while ensuring all customer demand is m
 
 ---
 
-## 📈 Strategic Recommendations
+##  Strategic Recommendations
 
 1. **Increase Stage 1 Shift 1 Capacity**  
    Reduces outsourcing dependency and total cost
@@ -55,21 +55,21 @@ The challenge was to minimize total cost while ensuring all customer demand is m
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 - `A2 - Team Final Project (2).pptx` – Summary presentation with visuals  
 - `Case study solution (1).xlsx` – Excel-based LP optimization model
 
 ---
 
-## 🏷️ Tags
+##  Tags
 
 `#linear-programming` `#cost-optimization` `#excel-solver` `#operations-research`  
 `#supply-chain` `#rougir-cosmetics` `#business-analytics` `#decision-modeling`
 
 ---
 
-## ✍️ Author
+##  Author
 
 **Shalini James Paulraj**  
 Graduate Student – Business Analytics & International Business  
